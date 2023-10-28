@@ -8,7 +8,6 @@ class Facility(models.Model):
   TYPE_CHOICES = [
     ('government', 'Pemerintahan'),
     ('public', 'Fasilitas Umum'),
-    ('house', 'House')
     ('park', 'Taman'),
     ('restaurant', 'Restoran')
   ]
